@@ -1,0 +1,13 @@
+name = "TurtleCosmetics"
+filename = "TurtleCosmetics-1.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "07e4ff3de746960e802c4d4f98493ab65a04c00f"
+url= "http://files.awesoftinc.xyz/jars/TurtleCosmetics-1.1.jar"
+
+[update]
+[update.curseforge]
+file-id = 7429078
+project-id = 1057662

@@ -1,0 +1,13 @@
+name = "Thermodynamica"
+filename = "thermodynamica-0.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "361bf0b194a9455a842a7ef9993d229ff5417cc0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7743758
+project-id = 1469308

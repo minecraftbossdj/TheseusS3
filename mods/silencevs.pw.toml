@@ -1,0 +1,13 @@
+name = "SilenceVS"
+filename = "SilenceVS-1.0-MIT.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9e84fb565961e25b6ae44e3cae2b1f116cd22bb8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6901017
+project-id = 1330023
