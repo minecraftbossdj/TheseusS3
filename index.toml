@@ -198,6 +198,11 @@ hash = "40ac9690c8b569e974a1f3172ea9a517ca1459ad04ab7144a0be85280227c45e"
 metafile = true
 
 [[files]]
+file = "mods/create-metallurgy.pw.toml"
+hash = "b97619d57d27e9000eaf0b6adb855adaed89c51f665157d84a2dcb6309f5c693"
+metafile = true
+
+[[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "b629e1961449382a5240354a78dd6c4167d65c4da01f1cb0ac3360a96ce3d429"
 metafile = true
@@ -603,9 +608,8 @@ hash = "8c1ddc34636bfb9ab2209a4d387900f03682a65ed5fcf8b5027ffdd9ba49880f"
 metafile = true
 
 [[files]]
-file = "mods/servercore.pw.toml"
-hash = "1c4b1b4173e7a0cd002f59089c4c2625d9632bf6f0d36fda063bd9d974d90866"
-metafile = true
+file = "mods/servercore-forge-1.5.2+1.20.1.jar"
+hash = "d9ad4f456b6c36bac17a71cd12935fdccae69ca1e1fcd33857210758cb58e586"
 
 [[files]]
 file = "mods/silencevs.pw.toml"
