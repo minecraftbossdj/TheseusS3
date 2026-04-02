@@ -9,6 +9,98 @@ file = "gitignore"
 hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/image-5.png"
+hash = "8a094840b5a148456698582d480183919b59d5e1079269e6f86000b615dd6a3a"
+
+[[files]]
+file = "kubejs/assets/netherless/textures/block/ghasttearfluid.png"
+hash = "0c77afedce87991bf8bad00b5198e10669480d7258da58f4e58e817dab983293"
+
+[[files]]
+file = "kubejs/assets/netherless/textures/block/incomplete_soul_sand.png"
+hash = "a3ad983526fa0005e4d5fac670b7616cb918afa1a99e61daf954a0760aebef38"
+
+[[files]]
+file = "kubejs/assets/netherless/textures/item/coal_rod.png"
+hash = "1bf7605ee40e1b377ed50c817069b189af665e9b3c660ba58b65c2038792d983"
+
+[[files]]
+file = "kubejs/assets/netherless/textures/item/incomplete_blaze_rod.png"
+hash = "67feaa3f8e60eed84b57007c054bfa47fcbbab9285bc6aef40db0088cacf1d96"
+
+[[files]]
+file = "kubejs/assets/netherless/textures/item/morphing_scrap.png"
+hash = "87d13270c83c15f8ace39498daea6151d1a0c050acbbab41f486d3da40515367"
+
+[[files]]
+file = "kubejs/assets/netherless/textures/item/netherite_fragment.png"
+hash = "a2bb180ad029a207e439d230c4333c0dade9507628f2859bbb1874303ee1ec2a"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "4016ae9e1b4e5464cac8f306ff268b0d0ae353cced220df244b65b36bf477306"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "7ea89d1bf334316b619919ab9f3f2de2a0bf86490b8502d7161b639137937d33"
+
+[[files]]
+file = "kubejs/server_scripts/balls.js"
+hash = "62e0d2c368357c41b5dd3cc72167942d377bd3a9f30123b8f7135aa6ff0943a9"
+
+[[files]]
+file = "kubejs/server_scripts/cannon.js"
+hash = "0cee79f2918dd179ea5e9cedcf3ff9e18700b4678c9f579d8e7e2707843d67a3"
+
+[[files]]
+file = "kubejs/server_scripts/cobble_gen_upgrade.js"
+hash = "8a349daed589d9dbf967f084fae6b5ca04cb95b4e7ad0fb47963961e3117e19d"
+
+[[files]]
+file = "kubejs/server_scripts/craft_additions.js"
+hash = "9c46f390c92a4f1974d38ebf089596931c880694dbf84637a6f0f660e6698ef6"
+
+[[files]]
+file = "kubejs/server_scripts/example.js"
+hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
+
+[[files]]
+file = "kubejs/server_scripts/minty.js"
+hash = "97380b71e518c2808abeb8add695b3eed4b9b2af70334cdaed2c2ba0b8480dde"
+
+[[files]]
+file = "kubejs/server_scripts/whatIfTheRealNetherlessWasTheFriendsWeMadeAlongTheWay.js"
+hash = "2709a137ac4ff4b2058351bc26c538922645f062476c5b11bf19c27149efa343"
+
+[[files]]
+file = "kubejs/startup_scripts/OHHH IM NETHERLESSING IT part 2 because idk if i can put these in the same file i probably can ngl also are you fr reading ts.js"
+hash = "7652e8cb9e1cc5cbd75d63dfa16ea9b908866a30d526d2191b27d2b15b2d1cd2"
+
+[[files]]
+file = "kubejs/startup_scripts/OHHH IM NETHERLESSING IT.js"
+hash = "374c5aa365fa5ed9eecbb4d902ea96e0a33dc0821d580b90e817f59b921ed276"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+
+[[files]]
 file = "mods/CarryOnVSCompat-Forge-1.20.1-1.0.0.jar"
 hash = "de1bba80a237490d8a9347281404c2d2cf9a35dc2ad5f0a79570fa76643a290f"
 
