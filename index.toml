@@ -1,16 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "gitattributes"
+hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
+
+[[files]]
+file = "gitignore"
+hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
+
+[[files]]
 file = "mods/CarryOnVSCompat-Forge-1.20.1-1.0.0.jar"
 hash = "de1bba80a237490d8a9347281404c2d2cf9a35dc2ad5f0a79570fa76643a290f"
 
 [[files]]
 file = "mods/Connector-1.0.0-beta.48+1.20.1.jar"
 hash = "b22aa7794c67805eb8fdfe72af840ace6feb1c21c4a64385ca111a2c18abbafd"
-
-[[files]]
-file = "mods/[TAGZ] Supressing-1.0.jar"
-hash = "e9e8a6e783c4952b935b3c39a4e33992e8804f572401811b814976e660733193"
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
@@ -602,13 +606,19 @@ hash = "f9be8361c39f91dce80420324ac45290a990e8178b83df6bdaa8d69f2c7aa8d4"
 metafile = true
 
 [[files]]
+file = "mods/sbw-tacz-tacticaldustfx.pw.toml"
+hash = "ebbac0473136bfb661c93cb22a80dda9daadb9512c69f729533b1f6cbce94434"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "8c1ddc34636bfb9ab2209a4d387900f03682a65ed5fcf8b5027ffdd9ba49880f"
 metafile = true
 
 [[files]]
-file = "mods/servercore-forge-1.5.2+1.20.1.jar"
-hash = "d9ad4f456b6c36bac17a71cd12935fdccae69ca1e1fcd33857210758cb58e586"
+file = "mods/servercore.pw.toml"
+hash = "4c1d37d3aecc6d67ce6c6a97d859345cdaefcf619a057069b0a8635f2ad551ac"
+metafile = true
 
 [[files]]
 file = "mods/silencevs.pw.toml"
@@ -641,10 +651,6 @@ hash = "80cc9e9ba6f53fa0a165c8ceb24d295eac471ecbb64f2b7711f1751264d96c1f"
 metafile = true
 
 [[files]]
-file = "mods/tacticaldustfx-alpha-0.0.1.jar"
-hash = "9ad8f831e0fa3eede760d59bae532b7a2c279da5c2e66d847f752cea1b60ecc3"
-
-[[files]]
 file = "mods/tacz-lesraisins-tactical-equipements.pw.toml"
 hash = "d97655330510c21898fe03027bd9841e34af2c6bc89372f22a6b23e71068b5ab"
 metafile = true
@@ -652,6 +658,11 @@ metafile = true
 [[files]]
 file = "mods/tacz-sbw-playerrevive-gun-mod-compitability.pw.toml"
 hash = "94461f5f35745fe81fda66f916b7428cbaba9e9eab210d7fb051e87f48e820d2"
+metafile = true
+
+[[files]]
+file = "mods/tacz-suppressing.pw.toml"
+hash = "3b203174c300eb2d166fc4bf262f22a1894cf6f86d7386d095a2fdedd20de9bf"
 metafile = true
 
 [[files]]
