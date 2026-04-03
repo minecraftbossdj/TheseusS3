@@ -1,0 +1,13 @@
+name = "Create: Energy Cannons"
+filename = "createenergycannons-forge-0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Pf340qLy/versions/51hMsX9I/createenergycannons-forge-0.1.jar"
+hash-format = "sha512"
+hash = "835a6e5242a7489eeaa92fbbfa30215bcf6a6595b5cec205b7477f2296e7b634342eb0fa0769bf20dfab2b81d2bb5b6702c37c7597c84ca1c3f9be053c2202d9"
+
+[update]
+[update.modrinth]
+mod-id = "Pf340qLy"
+version = "51hMsX9I"
