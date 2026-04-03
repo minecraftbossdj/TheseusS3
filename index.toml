@@ -173,11 +173,6 @@ hash = "fa5f6451ab9d80a6df6f24967b99a36da92fefe12ffc6e1978727be4c1777734"
 metafile = true
 
 [[files]]
-file = "mods/create-energy-cannons.pw.toml"
-hash = "fd7a4379683eb2f2f53af85a900fc229bc810e875544eab4e028f45032d95050"
-metafile = true
-
-[[files]]
 file = "mods/create-estrogen.pw.toml"
 hash = "873aae2177ee4ef91e4ef1fc959ad9797850be1e8af7443148488a3681e13f85"
 metafile = true
