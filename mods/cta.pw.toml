@@ -1,0 +1,13 @@
+name = "Create: Tank Additions"
+filename = "cta-0.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "344c3b55eeec8a156032854cc2fdd948216d7f3a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7761137
+project-id = 1486841
