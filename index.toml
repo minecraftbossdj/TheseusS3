@@ -921,11 +921,6 @@ hash = "f9be8361c39f91dce80420324ac45290a990e8178b83df6bdaa8d69f2c7aa8d4"
 metafile = true
 
 [[files]]
-file = "mods/sbw-tacz-tacticaldustfx.pw.toml"
-hash = "8924479ad19e37bdba5873a8aecfb24bbb40e6dbd042c1312bb3a7b897c96480"
-metafile = true
-
-[[files]]
 file = "mods/selene.pw.toml"
 hash = "8c1ddc34636bfb9ab2209a4d387900f03682a65ed5fcf8b5027ffdd9ba49880f"
 metafile = true
@@ -989,11 +984,6 @@ metafile = true
 [[files]]
 file = "mods/tacz-sbw-playerrevive-gun-mod-compitability.pw.toml"
 hash = "94461f5f35745fe81fda66f916b7428cbaba9e9eab210d7fb051e87f48e820d2"
-metafile = true
-
-[[files]]
-file = "mods/tacz-suppressing.pw.toml"
-hash = "3b203174c300eb2d166fc4bf262f22a1894cf6f86d7386d095a2fdedd20de9bf"
 metafile = true
 
 [[files]]
