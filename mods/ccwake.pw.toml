@@ -1,0 +1,13 @@
+name = "ComputerCraft Wake Nodes"
+filename = "ccwake-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4DTVdO2z/versions/3ZrQckGr/ccwake-1.0.3.jar"
+hash-format = "sha512"
+hash = "60ede95865ecf4494601a149a82d03d2f8b1696fb4a76b48ce541ee7c3daf0c5182ff6bb7685fd0f3d3b24f26b9227f9f9c7ed44a6e2b1b756408fe63f9c2f5d"
+
+[update]
+[update.modrinth]
+mod-id = "4DTVdO2z"
+version = "3ZrQckGr"

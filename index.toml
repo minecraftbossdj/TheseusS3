@@ -13,6 +13,11 @@ file = "mods/[TAGZ] Supressing-1.0.jar"
 hash = "e9e8a6e783c4952b935b3c39a4e33992e8804f572401811b814976e660733193"
 
 [[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "22023046d65c5c9c0cee0c575c44129414c8a702b06f2f0129ac918a4180495e"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "11577b0fa86cddb2fd26083409a9dbe4a2aadc031f9627ffeb38cca55095ac67"
 metafile = true
@@ -76,6 +81,10 @@ hash = "3e8d2dc2a2195dadfb8daebfd7a1cc4d8129e0c66dac9750b2331f1664b02c2f"
 metafile = true
 
 [[files]]
+file = "mods/cc_androids-forge-1.3.1.jar"
+hash = "cb3c443dec5243ab85a3f2e347a4bb8209d76cf5dbb89717669fee8ea4d8c83a"
+
+[[files]]
 file = "mods/cc_eureka-1.1.1.jar"
 hash = "044df82812e7d3cf7a5341773d2fdf742b9f306422b0491cd09c477c61c25918"
 
@@ -92,6 +101,16 @@ metafile = true
 [[files]]
 file = "mods/ccshenanigans-1.0.jar"
 hash = "49116a0fe294a4939a9f00b0c16c247110d1db2130b4f1281a5e3b5f4c898917"
+
+[[files]]
+file = "mods/ccvsr.pw.toml"
+hash = "aaa0584536ed2466ef62a12f47a71558963c2a1d30dd2f753a20b52dbe489a42"
+metafile = true
+
+[[files]]
+file = "mods/ccwake.pw.toml"
+hash = "a8b09f587776e49f4e0d4f5b4b65dbb04421c6e849cd4f3e1ef97fca953845e5"
+metafile = true
 
 [[files]]
 file = "mods/ccx.pw.toml"
@@ -273,6 +292,11 @@ metafile = true
 [[files]]
 file = "mods/drive-by-wire.pw.toml"
 hash = "4400bbc65bd0096efcebdc8a4786916303650bfacc1005779ab1e7ea4391f3c6"
+metafile = true
+
+[[files]]
+file = "mods/ducky-periphs.pw.toml"
+hash = "a59b8d3f24dca88fc93b11707423719e1350fc68d7a9884ff47b252734b1a05f"
 metafile = true
 
 [[files]]
@@ -672,7 +696,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-peripherals.pw.toml"
-hash = "1db3c3af533564aa1355e6041419db817bff50ac697cada6d4ab11c8d24c69c2"
+hash = "8f24c32dfb990b6741be6085cc2e478b675bafdb368a059fd431e39f3253af9e"
 metafile = true
 
 [[files]]
@@ -683,6 +707,16 @@ metafile = true
 [[files]]
 file = "mods/turtle-cosmetics.pw.toml"
 hash = "dd4db20b3fbc9d322f0b1ee119fc429ae5861c277bba636d3d2b49fce57dfad0"
+metafile = true
+
+[[files]]
+file = "mods/turtlematic.pw.toml"
+hash = "7d5a47a1f54122cd91d2fa6a50cf59887b0031486fecd9916d88440b0339cbf1"
+metafile = true
+
+[[files]]
+file = "mods/unlimitedperipheralworks.pw.toml"
+hash = "6cbb7d1b65315650cb8050350510dca0bb57f397dad395f1b8667bf64b484798"
 metafile = true
 
 [[files]]
