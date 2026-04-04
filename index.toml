@@ -103,11 +103,6 @@ file = "mods/ccshenanigans-1.0.jar"
 hash = "49116a0fe294a4939a9f00b0c16c247110d1db2130b4f1281a5e3b5f4c898917"
 
 [[files]]
-file = "mods/ccvsr.pw.toml"
-hash = "aaa0584536ed2466ef62a12f47a71558963c2a1d30dd2f753a20b52dbe489a42"
-metafile = true
-
-[[files]]
 file = "mods/ccwake.pw.toml"
 hash = "a8b09f587776e49f4e0d4f5b4b65dbb04421c6e849cd4f3e1ef97fca953845e5"
 metafile = true
@@ -366,6 +361,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "008fe09037f857fbfb2290f24eb859e0a6dcb5391c295ff3e885483c113a6bf4"
 metafile = true
 
 [[files]]
