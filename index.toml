@@ -656,10 +656,6 @@ hash = "80cc9e9ba6f53fa0a165c8ceb24d295eac471ecbb64f2b7711f1751264d96c1f"
 metafile = true
 
 [[files]]
-file = "mods/tacticaldustfx-alpha-0.0.1.jar"
-hash = "9ad8f831e0fa3eede760d59bae532b7a2c279da5c2e66d847f752cea1b60ecc3"
-
-[[files]]
 file = "mods/tacz-lesraisins-tactical-equipements.pw.toml"
 hash = "d97655330510c21898fe03027bd9841e34af2c6bc89372f22a6b23e71068b5ab"
 metafile = true
