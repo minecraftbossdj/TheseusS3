@@ -813,6 +813,11 @@ hash = "11bf20ea7e4089e8b6fd56c2dde405962fe8151ee5fdd4d574461f213ce54214"
 metafile = true
 
 [[files]]
+file = "mods/vmod.pw.toml"
+hash = "16df875d4c8a6e2394556ab78ae8fa932078e32713d3d948861e7245adc98db7"
+metafile = true
+
+[[files]]
 file = "mods/voicechat-forge-1.20.1-2.6.12.jar"
 hash = "02721705e295af1b54a5cbb8cbc7a44681906d6efb0a200be68bf972e5c9bb3c"
 
