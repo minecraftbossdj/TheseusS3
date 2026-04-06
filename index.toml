@@ -680,11 +680,6 @@ hash = "b4b74b7292223d98fe08a1cdb74f716472476150ab7b284bf143a5f7cfc0f9dc"
 metafile = true
 
 [[files]]
-file = "mods/psycedelicraft.pw.toml"
-hash = "ccdce16f00b288b750dd96f62d1e11ee761afe2e06ceff845082c64b93081cb3"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "ef0264b7d819848f72ab2f34643306187e712965a8246e1f733e1bd39d8fd681"
 metafile = true
