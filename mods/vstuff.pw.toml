@@ -1,0 +1,13 @@
+name = "vstuff"
+filename = "vstuff-0.2.5-fix1+274ab248dc.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/voOBl6iP/versions/hywKXUVq/vstuff-0.2.5-fix1%2B274ab248dc.jar"
+hash-format = "sha512"
+hash = "e9ea56bee0a418908d759ea73933d6df5c2fa43ed512a18fa54022c55accd74fc18bf6426eff8090d26552c51a290bc1860a679a88879ef4c059a08ed5bc16e5"
+
+[update]
+[update.modrinth]
+mod-id = "voOBl6iP"
+version = "hywKXUVq"

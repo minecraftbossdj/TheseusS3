@@ -831,6 +831,11 @@ file = "mods/vs_logistics-1.1.0.jar"
 hash = "05c6af1b859a59abd8cfdb69c88ecb9a0ae8e644ea3bade036b910f793704fda"
 
 [[files]]
+file = "mods/vstuff.pw.toml"
+hash = "c5ad4061584161fbb1c4e558be304fe1b545c0dae547b824e2b3dd3609253ec5"
+metafile = true
+
+[[files]]
 file = "mods/waterframes.pw.toml"
 hash = "f23d71ce94d45ce3c219c66196680081cd445ed28048f9a9a8217c52669644b2"
 metafile = true
