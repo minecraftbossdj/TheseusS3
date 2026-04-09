@@ -374,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "5f3e7b39d0df414e00e36e52863bc79f544410c4d4760fa28850f272f6e9e359"
+hash = "04dd126604a39ead81e9537634afcca66affa11e9c9349e7c9e361416f5b26eb"
 metafile = true
 
 [[files]]
@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "8bbe8860fb073441629a46a1929a9c5b4a1809a96ef818507c5d260f8d688b33"
+hash = "2bfa7622aef684932a20bb4a9cd36f7e05da329e7d5072caa8817d6b9181499e"
 metafile = true
 
 [[files]]
@@ -515,13 +515,13 @@ hash = "d545e2d90446465d26dfef1c6777edde1fa9d2b873674834dd761342a40088bf"
 metafile = true
 
 [[files]]
-file = "mods/petrolpark-library.pw.toml"
-hash = "5d8dde6bb892cf91afdfe0e1748befb6bf1e642c19f6a3f735763329b9def0db"
+file = "mods/petrolpark.pw.toml"
+hash = "a7c06861753883eaf0d3328b49a99f38460229c9025326d5d6b96c228bd07b5d"
 metafile = true
 
 [[files]]
 file = "mods/petrols-parts.pw.toml"
-hash = "4a4ad7b9c5255b80fde9a5cad1c23acc8e0133f5a588cd8c541185d52922d8b2"
+hash = "ee7905fd6574b870ba30073402da121d40ee4ea3b90967480605f2d38d7a1dc6"
 metafile = true
 
 [[files]]
@@ -675,5 +675,5 @@ metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
-hash = "a9421a7a29ac8ee6e0598ea20025ad2c30e6198b796324184600621743437c91"
+hash = "b43f507cffbcc7178b184fa63b2d74fc6b2b8103c4d299ec5633ccf1f5abdafb"
 metafile = true
