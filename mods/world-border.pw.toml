@@ -1,0 +1,13 @@
+name = "World Border"
+filename = "worldborder-1.20.1-4.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ce58ff3aa5bb81b2af2f353f5669f338b6466bf9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6184783
+project-id = 348093

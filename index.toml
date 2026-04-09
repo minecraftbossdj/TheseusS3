@@ -208,6 +208,11 @@ hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "a7fac0e9aaab33cd3dbace6a0d29940c7e811925eeb704b2593307f1fd8accc8"
+metafile = true
+
+[[files]]
 file = "mods/computercraft-wake-nodes.pw.toml"
 hash = "6bdae5bf8dd156eeb4cc02afa6f3c47a4bab9d4ebcb7868e2e6f911d082def3c"
 metafile = true
@@ -691,6 +696,11 @@ hash = "05c6af1b859a59abd8cfdb69c88ecb9a0ae8e644ea3bade036b910f793704fda"
 [[files]]
 file = "mods/vstuff.pw.toml"
 hash = "19b2a5ec92bde58c717fea0817bd4a24d30ffe843d51d3ac28109740504bc114"
+metafile = true
+
+[[files]]
+file = "mods/world-border.pw.toml"
+hash = "a303192d78ce87e6249c6ef4090c2d706b8bbbe0440a55b7d7bdc61db195370a"
 metafile = true
 
 [[files]]
