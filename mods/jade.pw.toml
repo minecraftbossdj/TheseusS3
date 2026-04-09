@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 6855440
 project-id = 324717
+
+[option]
+optional = true
+default = true
+description = "lets you see what block or entity youre looking at."

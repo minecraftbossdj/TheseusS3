@@ -1,0 +1,13 @@
+name = "Caduceus"
+filename = "caduceus-forge-0.2.1+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "03355233265491af71fd9384452512009407d401"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7466585
+project-id = 1292445

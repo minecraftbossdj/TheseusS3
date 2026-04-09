@@ -1,0 +1,13 @@
+name = "ComputerCraft Wake Nodes"
+filename = "ccwake-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fec8d9ca663557bcecb17e56b64c72e788562a3d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7838299
+project-id = 1498687

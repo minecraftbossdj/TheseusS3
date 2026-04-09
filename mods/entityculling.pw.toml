@@ -1,18 +1,18 @@
-name = "Entity Culling"
+name = "Entity Culling Fabric/Forge"
 filename = "entityculling-forge-1.10.0-mc1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/2bbjEAea/entityculling-forge-1.10.0-mc1.20.1.jar"
-hash-format = "sha512"
-hash = "af2a989a8be0892cc13e13412aa4dfc2145c97431d333ccd3ea7f192440758cb195404523706b74d262671df591ca6857edd45ceb1e4de17b4ae3e8e8073fbeb"
+hash-format = "sha1"
+hash = "b7e15f04d29f4d97afff8a6ce5a0162d2a595819"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "NNAgCjsB"
-version = "2bbjEAea"
+[update.curseforge]
+file-id = 7813003
+project-id = 448233
 
 [option]
 optional = true
 default = true
-description = "entity culling"
+description = "Culls entities, what more could you want?"

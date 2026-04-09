@@ -14,5 +14,5 @@ project-id = 335493
 
 [option]
 optional = true
-default = true
-description = "Dynamic FPS, what more could you ask?"
+default = false
+description = "Makes your fps dynamic depending on what youre doing (focused or unfocused)"

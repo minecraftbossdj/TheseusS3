@@ -3,11 +3,11 @@ filename = "vstuff-0.2.5-fix1+274ab248dc.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/voOBl6iP/versions/hywKXUVq/vstuff-0.2.5-fix1%2B274ab248dc.jar"
-hash-format = "sha512"
-hash = "e9ea56bee0a418908d759ea73933d6df5c2fa43ed512a18fa54022c55accd74fc18bf6426eff8090d26552c51a290bc1860a679a88879ef4c059a08ed5bc16e5"
+hash-format = "sha1"
+hash = "1ce20a53fe5c09ba84800ee74942a04901259ea4"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "voOBl6iP"
-version = "hywKXUVq"
+[update.curseforge]
+file-id = 7536895
+project-id = 1319439

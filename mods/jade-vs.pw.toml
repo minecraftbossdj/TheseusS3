@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 7711581
 project-id = 1209806
+
+[option]
+optional = true
+default = true
+description = "adds vs compat to jade"
