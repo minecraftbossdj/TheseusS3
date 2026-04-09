@@ -117,6 +117,11 @@ hash = "b5112c099ce7781bd3f52c7eb49de38a0eeb8aae086e4984fedaf8bbea01ee18"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "e11ddca37c00c8cdf8ee89c7b59df544f50966d2d6c5b016916f023afb98c02e"
+metafile = true
+
+[[files]]
 file = "mods/athena.pw.toml"
 hash = "1145c49aa71313f3b00afb2923b969bb2507017f16a2393dba99e69ab84639b4"
 metafile = true
