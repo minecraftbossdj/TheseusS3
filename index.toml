@@ -409,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "51af4a776fd62c9349329b2b13e0c29f80f5d728bba7afce35e512dcf6f10beb"
+hash = "628b698bb18d7d0bac45b0829971ffbab290cca3bb650a0dde20d229976bcecd"
 metafile = true
 
 [[files]]
