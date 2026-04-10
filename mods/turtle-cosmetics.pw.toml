@@ -11,3 +11,8 @@ url= "http://files.awesoftinc.xyz/jars/TurtleCosmetics-1.1.jar"
 [update.curseforge]
 file-id = 7429078
 project-id = 1057662
+
+[option]
+optional = true
+default = false
+description = "cosmetics for turtles (CURRENTLY BROKEN FOR CC1.117.1)"

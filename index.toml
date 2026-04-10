@@ -409,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "7b411f636c4a61db20882904e79625750ff1230c83763a0a426c04a8bbf8d7f1"
+hash = "71649b3216cb400bf7a7da2f74a95f2ab56d2abb3173d0ab1745f7fec76e6ec6"
 metafile = true
 
 [[files]]
@@ -661,7 +661,7 @@ metafile = true
 
 [[files]]
 file = "mods/turtle-cosmetics.pw.toml"
-hash = "dd4db20b3fbc9d322f0b1ee119fc429ae5861c277bba636d3d2b49fce57dfad0"
+hash = "acb2806c99159f55604e14da5188ec8b34d4afadda11b412f8858f34bb8246e7"
 metafile = true
 
 [[files]]
