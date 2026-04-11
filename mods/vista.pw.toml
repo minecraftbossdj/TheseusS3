@@ -1,0 +1,13 @@
+name = "Vista"
+filename = "vista-1.20-3.0.17-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c5ea4293bfe9f6481e07f07e155d01818d096bd5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7815769
+project-id = 1368607
