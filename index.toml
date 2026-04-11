@@ -1,6 +1,760 @@
 hash-format = "sha256"
 
 [[files]]
+file = "TheseusS3/index.toml"
+hash = "50305bf5c914fa22c7848ac9b37c80f73308eb6111101a7df64ee20c54d595bf"
+
+[[files]]
+file = "TheseusS3/kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "TheseusS3/kubejs/assets/kubejs/textures/item/image-5.png"
+hash = "8a094840b5a148456698582d480183919b59d5e1079269e6f86000b615dd6a3a"
+
+[[files]]
+file = "TheseusS3/kubejs/assets/netherless/textures/block/ghasttearfluid.png"
+hash = "0c77afedce87991bf8bad00b5198e10669480d7258da58f4e58e817dab983293"
+
+[[files]]
+file = "TheseusS3/kubejs/assets/netherless/textures/block/incomplete_soul_sand.png"
+hash = "a3ad983526fa0005e4d5fac670b7616cb918afa1a99e61daf954a0760aebef38"
+
+[[files]]
+file = "TheseusS3/kubejs/assets/netherless/textures/item/coal_rod.png"
+hash = "1bf7605ee40e1b377ed50c817069b189af665e9b3c660ba58b65c2038792d983"
+
+[[files]]
+file = "TheseusS3/kubejs/assets/netherless/textures/item/incomplete_blaze_rod.png"
+hash = "67feaa3f8e60eed84b57007c054bfa47fcbbab9285bc6aef40db0088cacf1d96"
+
+[[files]]
+file = "TheseusS3/kubejs/assets/netherless/textures/item/morphing_scrap.png"
+hash = "87d13270c83c15f8ace39498daea6151d1a0c050acbbab41f486d3da40515367"
+
+[[files]]
+file = "TheseusS3/kubejs/assets/netherless/textures/item/netherite_fragment.png"
+hash = "a2bb180ad029a207e439d230c4333c0dade9507628f2859bbb1874303ee1ec2a"
+
+[[files]]
+file = "TheseusS3/kubejs/config/common.properties"
+hash = "7ea89d1bf334316b619919ab9f3f2de2a0bf86490b8502d7161b639137937d33"
+
+[[files]]
+file = "TheseusS3/kubejs/server_scripts/WhatIfRavenTeamLeaderHadABuiltInEmote.js"
+hash = "a8b9ebab5399c5a16cceff4a98c1759fca57ea723429ab5c194755317ddb3870"
+
+[[files]]
+file = "TheseusS3/kubejs/server_scripts/balls.js"
+hash = "cf27fba1d5af6972b550968e9fedc8d324804e8d6cbda11087666c825bb62ec9"
+
+[[files]]
+file = "TheseusS3/kubejs/server_scripts/cannon.js"
+hash = "0cee79f2918dd179ea5e9cedcf3ff9e18700b4678c9f579d8e7e2707843d67a3"
+
+[[files]]
+file = "TheseusS3/kubejs/server_scripts/cobble_gen_upgrade.js"
+hash = "8a349daed589d9dbf967f084fae6b5ca04cb95b4e7ad0fb47963961e3117e19d"
+
+[[files]]
+file = "TheseusS3/kubejs/server_scripts/craft_additions"
+hash = "9c46f390c92a4f1974d38ebf089596931c880694dbf84637a6f0f660e6698ef6"
+
+[[files]]
+file = "TheseusS3/kubejs/server_scripts/example.js"
+hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
+
+[[files]]
+file = "TheseusS3/kubejs/server_scripts/minty.js"
+hash = "97380b71e518c2808abeb8add695b3eed4b9b2af70334cdaed2c2ba0b8480dde"
+
+[[files]]
+file = "TheseusS3/kubejs/server_scripts/peak_create.js"
+hash = "7d7bdb67d9fe118e01b61759f2931c8e9dbcbfc15f5ed1cd5f1c0eb770ee5a04"
+
+[[files]]
+file = "TheseusS3/kubejs/server_scripts/pneum.js"
+hash = "8faffa4ca70dcce703277bd3171e872f8321ec6df73f786c40473ccf92135d72"
+
+[[files]]
+file = "TheseusS3/kubejs/server_scripts/whatIfTheRealNetherlessWasTheFriendsWeMadeAlongTheWay.js"
+hash = "b8d70378a1b34876c2a32e20e2e5e882d81cdaa3daa578cdd9eab872d45f4492"
+
+[[files]]
+file = "TheseusS3/kubejs/startup_scripts/OHHH IM NETHERLESSING IT part 2 because idk if i can put these in the same file i probably can ngl also are you fr reading ts.js"
+hash = "7652e8cb9e1cc5cbd75d63dfa16ea9b908866a30d526d2191b27d2b15b2d1cd2"
+
+[[files]]
+file = "TheseusS3/kubejs/startup_scripts/OHHH IM NETHERLESSING IT.js"
+hash = "374c5aa365fa5ed9eecbb4d902ea96e0a33dc0821d580b90e817f59b921ed276"
+
+[[files]]
+file = "TheseusS3/kubejs/startup_scripts/example.js"
+hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+
+[[files]]
+file = "TheseusS3/mods/AdvancedPeripherals-1.20.1-0.7.46r.jar"
+hash = "e78152a8acc771121772750360e6a89f14414375a5ca7df7da168b1c1f40064b"
+
+[[files]]
+file = "TheseusS3/mods/ExtendedPeripherals-1.20.1-0.1.0.jar"
+hash = "acd23bf3713f575b5037787baff22fcee62722238a0bfe22e3d0c249c83be154"
+
+[[files]]
+file = "TheseusS3/mods/amendments.pw.toml"
+hash = "420f60e542e731334fc62fc16a9945a60dfa8f6c5a647c71b2cf9217d50ea7f5"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/appleskin.pw.toml"
+hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/architectury-api.pw.toml"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/artifacts.pw.toml"
+hash = "b5112c099ce7781bd3f52c7eb49de38a0eeb8aae086e4984fedaf8bbea01ee18"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/athena-ctm.pw.toml"
+hash = "e11ddca37c00c8cdf8ee89c7b59df544f50966d2d6c5b016916f023afb98c02e"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/athena.pw.toml"
+hash = "1145c49aa71313f3b00afb2923b969bb2507017f16a2393dba99e69ab84639b4"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/attributefix.pw.toml"
+hash = "828d571a91296e2ee3be1ec509619ea01f6a61a03958461fbe543bd377daa194"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/baguettelib.pw.toml"
+hash = "19599997cdc30b9a7042eafb58e5a3a7302438731bc9141a2caabc0bf59b6660"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/caduceus.pw.toml"
+hash = "757e52bd3ad0300b3d7f4d5165e9b7057a94fff612786fa5c49400759a47ece8"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/caelus.pw.toml"
+hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/carry-on.pw.toml"
+hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/catalogue.pw.toml"
+hash = "c621a13f740b0a0b771ff67b7e7d57513c8df2a7b516ece33d5c654d2c0cea2b"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/cc-tweaked.pw.toml"
+hash = "7bebb016d06888c0efafc464ed041dad7fded7c0947457bdfb9eedf00b48f9d2"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/cc-vs.pw.toml"
+hash = "3e8d2dc2a2195dadfb8daebfd7a1cc4d8129e0c66dac9750b2331f1664b02c2f"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/cc_androids-forge-1.3.1.jar"
+hash = "cb3c443dec5243ab85a3f2e347a4bb8209d76cf5dbb89717669fee8ea4d8c83a"
+
+[[files]]
+file = "TheseusS3/mods/cccbridge.pw.toml"
+hash = "2ffdb2a62d0d79612064acf878aa7075a18030d9b1315099f2b9d6b89029951b"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/cclink-6.2.1-1.20.1.jar"
+hash = "fd295cf13790b20556ea950f0de401dfa39643ca2e624e70ac363df877445e51"
+
+[[files]]
+file = "TheseusS3/mods/ccx-forge-6.1.1.jar"
+hash = "7a50bef67ed4761ea3e18a5d2e7e184cc20c52b15ac1ad289395147159da3b1d"
+
+[[files]]
+file = "TheseusS3/mods/cherished-worlds.pw.toml"
+hash = "d0e9891fba7c0c2d24630a8cf8861ad00216a99993fb8e7e083ebdeb4c8ab29e"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/chipped.pw.toml"
+hash = "71a33fe41bead909b3e95643351ef8015def70d3cb083916469f492f66434b45"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/classicperipherals-0.3.1-forge-1.20.1.jar"
+hash = "e2c27d666a38d9cedb939ed771ba27f7ea1aad6542f973985c7ae61a694b0cdc"
+
+[[files]]
+file = "TheseusS3/mods/cloth-config.pw.toml"
+hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/clumps.pw.toml"
+hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/collective.pw.toml"
+hash = "a7fac0e9aaab33cd3dbace6a0d29940c7e811925eeb704b2593307f1fd8accc8"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/computercraft-wake-nodes.pw.toml"
+hash = "6bdae5bf8dd156eeb4cc02afa6f3c47a4bab9d4ebcb7868e2e6f911d082def3c"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/configured.pw.toml"
+hash = "855ac1a60ad6f760708a3eb0fd447d6a3f826a3f9b2b850d457537080557c5df"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/controlling.pw.toml"
+hash = "209be684db78b75560bd233663eca005473cf97a1c684e7f16044865d415ea1d"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/copycats.pw.toml"
+hash = "4101243ecfad34970b81cf6c99f458b67fe848d11870112bc9bab3b16af985eb"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/corpse-x-curios-api-compat.pw.toml"
+hash = "6853014d651b8b33a80aa6943b1071f6398599533ef74bedae54ae3be74844d5"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/corpse.pw.toml"
+hash = "2fba2317a375669ccb1376525d4d4e0d1903cc5dc44fc70dce1d0e3dbb6aacb1"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/create-big-cannons.pw.toml"
+hash = "99570d052b207740d16257ad390fb5fb13b832928f846dd8f659247da60fd17d"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/create-clockwork.pw.toml"
+hash = "0d479f522f6ae1304ddb4c8f87f4f1a57921e32ef746960c8aae96dd4bf82de0"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/create-compact-transmission.pw.toml"
+hash = "17d7f6073549c56d484de79168b6095c1c8edd7102ad31828b4f391de36ed1c7"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/create-connected.pw.toml"
+hash = "d08820071cff0e5c0ac5f18260384fb0f9850651b97d44e0c3f44c8611cf538a"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/create-diesel-generators.pw.toml"
+hash = "67e59bf0943ed4c82e9ede4622df77bb37d7f1f3f60af9490a18fae009471154"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/create-enchantment-industry.pw.toml"
+hash = "200b30b8eeaaf2fa9e8345fcabdd80f6195b5af67926fb1e277931100e7e1eff"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/create-ender-transmission.pw.toml"
+hash = "fa5f6451ab9d80a6df6f24967b99a36da92fefe12ffc6e1978727be4c1777734"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/create-escalated.pw.toml"
+hash = "c6662c88657d43c539c4094e26f7c3ae9fd84a707c8a7bbd3737ee74839f45c9"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/create-extra-gauges.pw.toml"
+hash = "b4066f8ee6f30a59e0550e258e5ef15e59bcb20eac3ec06af4bf2e1d772c3707"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/create-industry.pw.toml"
+hash = "04f84cbd5fd5408dd66d8bf48b6dffaee55baecfb84220e5dda82f43a36c3d85"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/create-interactive.pw.toml"
+hash = "69d316d900a3efc1981df59bd9cd9dccb763c7b780e0a9102eaa77051e8d9b1c"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/create-jetpack.pw.toml"
+hash = "40ac9690c8b569e974a1f3172ea9a517ca1459ad04ab7144a0be85280227c45e"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/create-metallurgy.pw.toml"
+hash = "533ed77d8808cdb36538098413993376f588f5da2b4e0815763411870545b7a9"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/create-missiles.pw.toml"
+hash = "356e1b6d458bc4477860b240011424cd89290f72bf6a0f4db280bf371da0271b"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/create-new-age.pw.toml"
+hash = "af254a9e26ed280c6078e2d02aa9f511d5b3f0ae43767e6a35a87583014e5e6e"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/create-propulsion.pw.toml"
+hash = "9d58083c93e3a4e8bdfaceda2601d2b690a2e378e5a60d917a94b8eb51082063"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/create-steam-n-rails.pw.toml"
+hash = "a432e8775c2bdec53fca88146917905c5c82273e1b66af48b5ace0809433c8fe"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/create-tweaked-controllers.pw.toml"
+hash = "91354129d4adaf2982fbf6d975331067ad39a6e408de32383ea8ff65a3c71e7a"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/create.pw.toml"
+hash = "fb5c251cf4997fa65ca043bab7c9ecbd02e108031584a3e26276b77d212de23c"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/createaddition.pw.toml"
+hash = "8a5f33277995fccd2be6793c4fba1b5d657983be32f0b47e4afab4eac70b8ab8"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/curios.pw.toml"
+hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/dcintegration.pw.toml"
+hash = "7c1ac01f8026fac8630fa7762a4325bfda54578d7904890904308b921d33ebd8"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/drive-by-wire.pw.toml"
+hash = "4400bbc65bd0096efcebdc8a4786916303650bfacc1005779ab1e7ea4391f3c6"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/ducky-periphs.pw.toml"
+hash = "2c7ff95da129218e3858446b34840db57405231a50e41badebe7e5037a8afbb4"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/dynamic-fps.pw.toml"
+hash = "2c4ebfef52d30e3a905a90780bb71b1bc7643aaf56b0e5e906ace944cb093d7f"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/embeddium.pw.toml"
+hash = "5c7d3eb854321255a8902eb6e5ea21009328914cd1d3790db6c9c49f2790f415"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/emi.pw.toml"
+hash = "d48a1ea93de8cd5febb95ba52989d8d9ab4e998cfbdf9c1076a9f2e571d2fcbe"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/entity-model-features.pw.toml"
+hash = "090d84a3b6de825f031c746d7173bcb5e6b1fc5923af81a8819e5e7961bda1d5"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/entity-texture-features-fabric.pw.toml"
+hash = "60e6f80038fa12b7f4d06751743021fb95cb6586c353d4d69c607d8320c11bc4"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/entityculling.pw.toml"
+hash = "04dd126604a39ead81e9537634afcca66affa11e9c9349e7c9e361416f5b26eb"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/essential-mod.pw.toml"
+hash = "e65e00e6ca615bd709200e85eaad01db5e6dc72fa8d8d34354e49b70e33788ee"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/eureka-ships.pw.toml"
+hash = "28e381645d0eeaee1a3003288ae44e151d42f8dbd51f49860c058df0153f1fec"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/ferritecore.pw.toml"
+hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/figura.pw.toml"
+hash = "628b698bb18d7d0bac45b0829971ffbab290cca3bb650a0dde20d229976bcecd"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/ftb-library-forge.pw.toml"
+hash = "48e2fa3089beed20a23ff2d171259768b2080ab0ff196841a18eb93c38e1c8b2"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/ftb-ultimine-forge.pw.toml"
+hash = "e4b7351b1f8bf87c53e5128d982fa179178472ca129d46fc48ea84d508c7ed8f"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/geckolib.pw.toml"
+hash = "30fe947e95d8da536ea4ad3c959f07cc504dd739ea530f7f4187ac08f4afcbc0"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/grapplevs.pw.toml"
+hash = "2592812a03473a3f9ed7749b48c23f64ed7f7f37b2ac6a4eb16c791a19a9b20e"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/grieflogger.pw.toml"
+hash = "6406896463cb7c34d86cbe583b6fb2852c2306129d9770e403d817ac451a81a4"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/hexal-forge-1.20.1-0.3.1.jar"
+hash = "56b3de8aae74987475c5d4c4eea6abc84e48377d4e442bdf0e16945031ea4c19"
+
+[[files]]
+file = "TheseusS3/mods/hexcasting.pw.toml"
+hash = "df0bc0ad5b00c9a0f2900b3f8866825c1ba8f21e55b1f8b92ff264d43c13093e"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/hextweaks-5.3.3.jar"
+hash = "6d115c1d0d00ecb7f99da1226633fedac760d7e87dda0a37c96cb3d89999bbd7"
+
+[[files]]
+file = "TheseusS3/mods/hierophantics.pw.toml"
+hash = "d872ab29b4179b3bc1cb7a649c739d9445052c8ef57fa1b24dfb6a02b1eb1da5"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/inline.pw.toml"
+hash = "7cf8c4505a3090cdaacd318c24ee0a1d009674ed45ec842e5717321d3ce9fc56"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/inv-view-forge.pw.toml"
+hash = "c1be7ddccaa7f134cb66caee5a3b5d241356d58b7339f87ad311fd0e52a33d5f"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/jade-vs.pw.toml"
+hash = "4c7f2f4a2ea36fb280ffeb03d92c5d407924d3d16a5a490eb96fee734f00832e"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/jade.pw.toml"
+hash = "65c0016117d32d6c1ffdfbea5cd3ecac313320e859d9295f6d5ecd9316cd35e9"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/jei.pw.toml"
+hash = "29b62d42548542296d9932bcbb8a93ffba0b75b7cc859a67e596aeb1e048ace2"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/kotlin-for-forge.pw.toml"
+hash = "1678327ac50408273c1828b631929128d3fdfd54cda7b2e823ce9352495a68ff"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/kubejs-create.pw.toml"
+hash = "7e9ef26310359f482e595815664b3d08381b30c6517c32a58078b0999e1d953a"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/kubejs.pw.toml"
+hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/lootr.pw.toml"
+hash = "e8b4876d403b4f4daab64bad9704a5b271a33031d1ff8d19d23ebd1e3b8dd39a"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/mantle.pw.toml"
+hash = "6164ce697ea02e49911afd5666dcb1d5f83ed0fff9b290def0a7a7c440c1c39b"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/memoryleakfix.pw.toml"
+hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/minecraft-comes-alive-reborn.pw.toml"
+hash = "f99fcf9508386ee5d49b252ea42c95e299a20c6b9a23df6704d032d38cbce7a3"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/model-gap-fix.pw.toml"
+hash = "44d70ea9a73da04e6923f5ed160af344f7a687ced48bf2e81a8d7bc04ee8df05"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/more-peripherals.pw.toml"
+hash = "c6835bdf7e9ada3bfff472e70d8c22d03af0e2a6e0bc5b79745d5c2fb3ff292c"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/moreiotas-forge-1.20.1-0.1.1.jar"
+hash = "0f47a2432af77b02f4c77bf3ab9a2961f08a0500ec804398d62d362de71c66db"
+
+[[files]]
+file = "TheseusS3/mods/mouse-tweaks.pw.toml"
+hash = "46e6cbb8180124ae5c317ad195bd1903f3e2af1c598067b95f50544a1865ca30"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/no-chat-reports.pw.toml"
+hash = "1d602996f39fb6103a5b968f50ec06800db7125b145570474c9c10e6dcd0c68e"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/not-enough-animations.pw.toml"
+hash = "2bfa7622aef684932a20bb4a9cd36f7e05da329e7d5072caa8817d6b9181499e"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/open-parties-and-claims.pw.toml"
+hash = "a7be56217f4a94ea27c3dac095da4b2ea56d8964fefaf19599fda08bc7f97e59"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/patchouli.pw.toml"
+hash = "b2cb681aaf3e6085148392a06d40899239dc299aaf5ce0adf168fc225d922c97"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/paucal.pw.toml"
+hash = "d545e2d90446465d26dfef1c6777edde1fa9d2b873674834dd761342a40088bf"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/petrolpark.pw.toml"
+hash = "a7c06861753883eaf0d3328b49a99f38460229c9025326d5d6b96c228bd07b5d"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/petrols-parts.pw.toml"
+hash = "ee7905fd6574b870ba30073402da121d40ee4ea3b90967480605f2d38d7a1dc6"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/quark.pw.toml"
+hash = "4eb683644ee4e38e00b06df946b71ad8fedaa860fcabbd91ec6ceb71c65b8d81"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/resourceful-lib.pw.toml"
+hash = "ef0264b7d819848f72ab2f34643306187e712965a8246e1f733e1bd39d8fd681"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/rhino.pw.toml"
+hash = "ca4411ac6d8a9a892948bb63cd0ba52ae5523ca5e257632d6ae8c933b660c5ee"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/ritchies-projectile-library.pw.toml"
+hash = "ad017c00411e9b3cd8564d913e568636270ffd50bc822c919ce1db5ba0dbe126"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/searchables.pw.toml"
+hash = "63c8ec27b34c48697ff2e7a58002df07773e9c62a94d46c224f9e4630fc6a900"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/selene.pw.toml"
+hash = "8c1ddc34636bfb9ab2209a4d387900f03682a65ed5fcf8b5027ffdd9ba49880f"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/silencevs.pw.toml"
+hash = "94f710567b1d9a163b641046936c9ae989f9229f965d557e89eed0ca81f28cde"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/simple-voice-chat.pw.toml"
+hash = "726df3e3d225b391a44fcda33844f93f167c835cfca5f7de28b29ec816438ac0"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/sophisticated-backpacks.pw.toml"
+hash = "397414c878089bbd79fadd8a85d9996ef2e88545a410217d43f92bde5965d4e9"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/sophisticated-core.pw.toml"
+hash = "51bd785f1d99966e9015a79511435e352b09356b29fdcde0f011c46395a958de"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/sophisticated-storage.pw.toml"
+hash = "17b1d42f987d94d49c48cf77f14189da7a422cea81a192a65d43e4419b18c281"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/sound-physics-remastered.pw.toml"
+hash = "6ba6913010e18d31e64df70d19d2649eeb9618ad36d0da54e1b2bded69fa5ab5"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/supermartijn642s-config-lib.pw.toml"
+hash = "1cf9cb3955b075664ea4fba13b47fe7160975740a28864983aebd53d39c1946e"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/supplementaries.pw.toml"
+hash = "80cc9e9ba6f53fa0a165c8ceb24d295eac471ecbb64f2b7711f1751264d96c1f"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/tconstructjs.pw.toml"
+hash = "f93620dcde45f5694f4bb8713299f60b07c5097d1ab192b0453b8176d5723483"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/tinkers-construct.pw.toml"
+hash = "74a64acbd2275c16e47fb17e74bcd431779674cefa1f54f67f15b4d9b955aec7"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/toms-peripherals.pw.toml"
+hash = "1db3c3af533564aa1355e6041419db817bff50ac697cada6d4ab11c8d24c69c2"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/trackwork.pw.toml"
+hash = "9800f7fca0f61002209c07155c166907a830f22aa4ae3ceba407fbc3277eb74e"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/turtle-cosmetics.pw.toml"
+hash = "acb2806c99159f55604e14da5188ec8b34d4afadda11b412f8858f34bb8246e7"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/turtlematic.pw.toml"
+hash = "82b3a92df4db38be28e1323555b32c6d3e2ec33eefe9f00b2a1c638f68075c0b"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/unlimitedperipheralworks.pw.toml"
+hash = "58356fcbf1d7c5859e07c29d2c4adafe6990804fd74699efa732eba3940079b5"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/valkyrien-logistics.pw.toml"
+hash = "fb4bcf2e0901d38b7f337331bf76b0320e4e3167e3f884f5780e7c5c4eb6a78f"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/valkyrien-skies.pw.toml"
+hash = "0848e3eeb6d87316ce67b487da8f3494c18932a4de054b29ccd9f861406d7a9c"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/vanishmod.pw.toml"
+hash = "cbf15929002778aaca0eff1fec01662bedddd79d31949e732dfeb18149f8d936"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/vintage-1.20.1-1.5.8.jar"
+hash = "ce36a33fd7d30fcfe6fcce22421f2d982d935de056c7e1ce6f63c6bdf80dc22b"
+
+[[files]]
+file = "TheseusS3/mods/vmisc.pw.toml"
+hash = "631df35c695e5a81c3b3eb0ed26bcbceb1b8b5f83219b1138055dd0441858648"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/vmod.pw.toml"
+hash = "16df875d4c8a6e2394556ab78ae8fa932078e32713d3d948861e7245adc98db7"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/vs-hose-connectors.pw.toml"
+hash = "0bf2d96056784bbba702ec3e6d732b4947063bf20ba8e7f32555c11bf02355b5"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/vs-ship-retrieval-service.pw.toml"
+hash = "ac25c5a1d2e8fea8e5a3d10bcd76fdaad57848ce09e2773f4c87308ef73ede62"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/vs_logistics-1.1.0.jar"
+hash = "05c6af1b859a59abd8cfdb69c88ecb9a0ae8e644ea3bade036b910f793704fda"
+
+[[files]]
+file = "TheseusS3/mods/vstuff.pw.toml"
+hash = "19b2a5ec92bde58c717fea0817bd4a24d30ffe843d51d3ac28109740504bc114"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/world-border.pw.toml"
+hash = "a303192d78ce87e6249c6ef4090c2d706b8bbbe0440a55b7d7bdc61db195370a"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/xaeros-minimap.pw.toml"
+hash = "d55d5e9b2ceb866a5a3f7342478d4437230f1b9f177ea23360f1ab7ced0da95b"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/xaeros-world-map.pw.toml"
+hash = "53d56895bd15af3b71bc1337d4449584a5abdfd4eaa653fae428ca81fcf3fee7"
+metafile = true
+
+[[files]]
+file = "TheseusS3/mods/zeta.pw.toml"
+hash = "b43f507cffbcc7178b184fa63b2d74fc6b2b8103c4d299ec5633ccf1f5abdafb"
+metafile = true
+
+[[files]]
+file = "TheseusS3/pack.toml"
+hash = "5a1a5faa236ed6265cf2fa3f561ed99293e4b660571146b5ec11cdf7b1bd74f5"
+
+[[files]]
+file = "TheseusS3/servers.dat"
+hash = "ec150ba709401b98e2404db78cc0006140216911320b64c46c30812ecd7b1db2"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -552,6 +1306,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "2bfa7622aef684932a20bb4a9cd36f7e05da329e7d5072caa8817d6b9181499e"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "cf4d304c85eafb4e0d8668bd0f848e122b00975d2aebd21f55f0a1cf28a4c5ff"
 metafile = true
 
 [[files]]
