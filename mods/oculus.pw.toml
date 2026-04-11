@@ -14,5 +14,5 @@ version = "iQ1SwGc3"
 
 [option]
 optional = true
-default = false
+default = true
 description = "lets you use shaders"
