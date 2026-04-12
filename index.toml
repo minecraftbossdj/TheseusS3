@@ -446,11 +446,6 @@ hash = "c1be7ddccaa7f134cb66caee5a3b5d241356d58b7339f87ad311fd0e52a33d5f"
 metafile = true
 
 [[files]]
-file = "mods/jade-vs.pw.toml"
-hash = "4c7f2f4a2ea36fb280ffeb03d92c5d407924d3d16a5a490eb96fee734f00832e"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "65c0016117d32d6c1ffdfbea5cd3ecac313320e859d9295f6d5ecd9316cd35e9"
 metafile = true
@@ -661,11 +656,6 @@ hash = "ce36a33fd7d30fcfe6fcce22421f2d982d935de056c7e1ce6f63c6bdf80dc22b"
 [[files]]
 file = "mods/vista.pw.toml"
 hash = "4ff695d93731768e492488273290f6c8c72988250d3110d2aee97b17dd18b3a3"
-metafile = true
-
-[[files]]
-file = "mods/vmisc.pw.toml"
-hash = "631df35c695e5a81c3b3eb0ed26bcbceb1b8b5f83219b1138055dd0441858648"
 metafile = true
 
 [[files]]
