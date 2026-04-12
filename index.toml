@@ -162,11 +162,6 @@ hash = "7bebb016d06888c0efafc464ed041dad7fded7c0947457bdfb9eedf00b48f9d2"
 metafile = true
 
 [[files]]
-file = "mods/cc-vs.pw.toml"
-hash = "3e8d2dc2a2195dadfb8daebfd7a1cc4d8129e0c66dac9750b2331f1664b02c2f"
-metafile = true
-
-[[files]]
 file = "mods/cc_androids-forge-1.3.1.jar"
 hash = "cb3c443dec5243ab85a3f2e347a4bb8209d76cf5dbb89717669fee8ea4d8c83a"
 
@@ -253,11 +248,6 @@ hash = "99570d052b207740d16257ad390fb5fb13b832928f846dd8f659247da60fd17d"
 metafile = true
 
 [[files]]
-file = "mods/create-clockwork.pw.toml"
-hash = "0d479f522f6ae1304ddb4c8f87f4f1a57921e32ef746960c8aae96dd4bf82de0"
-metafile = true
-
-[[files]]
 file = "mods/create-compact-transmission.pw.toml"
 hash = "17d7f6073549c56d484de79168b6095c1c8edd7102ad31828b4f391de36ed1c7"
 metafile = true
@@ -298,11 +288,6 @@ hash = "04f84cbd5fd5408dd66d8bf48b6dffaee55baecfb84220e5dda82f43a36c3d85"
 metafile = true
 
 [[files]]
-file = "mods/create-interactive.pw.toml"
-hash = "69d316d900a3efc1981df59bd9cd9dccb763c7b780e0a9102eaa77051e8d9b1c"
-metafile = true
-
-[[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "40ac9690c8b569e974a1f3172ea9a517ca1459ad04ab7144a0be85280227c45e"
 metafile = true
@@ -320,11 +305,6 @@ metafile = true
 [[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "af254a9e26ed280c6078e2d02aa9f511d5b3f0ae43767e6a35a87583014e5e6e"
-metafile = true
-
-[[files]]
-file = "mods/create-propulsion.pw.toml"
-hash = "9d58083c93e3a4e8bdfaceda2601d2b690a2e378e5a60d917a94b8eb51082063"
 metafile = true
 
 [[files]]
@@ -360,11 +340,6 @@ metafile = true
 [[files]]
 file = "mods/dcintegration.pw.toml"
 hash = "7c1ac01f8026fac8630fa7762a4325bfda54578d7904890904308b921d33ebd8"
-metafile = true
-
-[[files]]
-file = "mods/drive-by-wire.pw.toml"
-hash = "4400bbc65bd0096efcebdc8a4786916303650bfacc1005779ab1e7ea4391f3c6"
 metafile = true
 
 [[files]]
@@ -405,11 +380,6 @@ metafile = true
 [[files]]
 file = "mods/essential-mod.pw.toml"
 hash = "e65e00e6ca615bd709200e85eaad01db5e6dc72fa8d8d34354e49b70e33788ee"
-metafile = true
-
-[[files]]
-file = "mods/eureka-ships.pw.toml"
-hash = "28e381645d0eeaee1a3003288ae44e151d42f8dbd51f49860c058df0153f1fec"
 metafile = true
 
 [[files]]
@@ -615,11 +585,6 @@ hash = "8c1ddc34636bfb9ab2209a4d387900f03682a65ed5fcf8b5027ffdd9ba49880f"
 metafile = true
 
 [[files]]
-file = "mods/silencevs.pw.toml"
-hash = "94f710567b1d9a163b641046936c9ae989f9229f965d557e89eed0ca81f28cde"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "726df3e3d225b391a44fcda33844f93f167c835cfca5f7de28b29ec816438ac0"
 metafile = true
@@ -670,11 +635,6 @@ hash = "1db3c3af533564aa1355e6041419db817bff50ac697cada6d4ab11c8d24c69c2"
 metafile = true
 
 [[files]]
-file = "mods/trackwork.pw.toml"
-hash = "9800f7fca0f61002209c07155c166907a830f22aa4ae3ceba407fbc3277eb74e"
-metafile = true
-
-[[files]]
 file = "mods/turtle-cosmetics.pw.toml"
 hash = "acb2806c99159f55604e14da5188ec8b34d4afadda11b412f8858f34bb8246e7"
 metafile = true
@@ -687,16 +647,6 @@ metafile = true
 [[files]]
 file = "mods/unlimitedperipheralworks.pw.toml"
 hash = "58356fcbf1d7c5859e07c29d2c4adafe6990804fd74699efa732eba3940079b5"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-logistics.pw.toml"
-hash = "fb4bcf2e0901d38b7f337331bf76b0320e4e3167e3f884f5780e7c5c4eb6a78f"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "0848e3eeb6d87316ce67b487da8f3494c18932a4de054b29ccd9f861406d7a9c"
 metafile = true
 
 [[files]]
@@ -716,30 +666,6 @@ metafile = true
 [[files]]
 file = "mods/vmisc.pw.toml"
 hash = "631df35c695e5a81c3b3eb0ed26bcbceb1b8b5f83219b1138055dd0441858648"
-metafile = true
-
-[[files]]
-file = "mods/vmod.pw.toml"
-hash = "16df875d4c8a6e2394556ab78ae8fa932078e32713d3d948861e7245adc98db7"
-metafile = true
-
-[[files]]
-file = "mods/vs-hose-connectors.pw.toml"
-hash = "0bf2d96056784bbba702ec3e6d732b4947063bf20ba8e7f32555c11bf02355b5"
-metafile = true
-
-[[files]]
-file = "mods/vs-ship-retrieval-service.pw.toml"
-hash = "ac25c5a1d2e8fea8e5a3d10bcd76fdaad57848ce09e2773f4c87308ef73ede62"
-metafile = true
-
-[[files]]
-file = "mods/vs_logistics-1.1.0.jar"
-hash = "05c6af1b859a59abd8cfdb69c88ecb9a0ae8e644ea3bade036b910f793704fda"
-
-[[files]]
-file = "mods/vstuff.pw.toml"
-hash = "19b2a5ec92bde58c717fea0817bd4a24d30ffe843d51d3ac28109740504bc114"
 metafile = true
 
 [[files]]
